@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    width: 100%;
+    height: auto;
+
+}
+
+.cadastro {
+ background-color:black;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 3%;
+    margin-left: 30%;
+    width: 800px;
+    border-radius: 5%;
+    color: white;
+}
+
+.botaoCadastro {
+
+    margin-top: 10%;
+
+    text-align: center;
+
+}
+
+.footerr{
+    width:100%;
+    min-height: 100vh;
+}
+
+
+.footerrr{
+    width:100%;
+    min-height: 100vh;
+}
+
+.card-img-top{
+    height: 500px;
+
+}
+
+.text-center{
+margin-top: 50px; 
+margin-bottom: 50px;
+
+}
+.r{
+    margin-top: 50px;
+   
+}
+
+.footerEJ{
+width:100%;
+min-height: 100vh;
+
+}
+
+.footerJ{
+    width:100%;
+    min-height: 100vh;
+    
+    }
+
+
+/* ##### RODAPÉ ##### */
+
+footer{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bolder;
+    clear: both;
+
+ 
+}
+
